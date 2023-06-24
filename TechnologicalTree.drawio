@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:54:16.587Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="ab8DlfGNZmkPxPhFahBx" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:57:27.648Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="b4s2s6HtW8Ij8vK9Mble" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
     <mxGraphModel dx="1639" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -41,11 +41,20 @@
         <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Коптильня. Открывает доступ к жарке мяса." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="874" width="200" height="110.01" as="geometry" />
         </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-12" target="KuUZ50XCyosqBm0AOGB8-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e4cb19346be0a178b36c890636e0e5549b978edb-8187583-images-thumbs&amp;n=13;" vertex="1" parent="1">
           <mxGeometry x="561.13" y="340" width="177.74" height="99.98" as="geometry" />
         </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-13" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="444.99" width="200" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4df7003726820dc86b49f52e42a8fdba6b284f20-9289605-images-thumbs&amp;n=13;" vertex="1" parent="1">
+          <mxGeometry x="835" y="330" width="190" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-16" value="Дом каменщика. Открывает доступ к постройке каменных зданий." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="812.0500000000001" y="470" width="235.89" height="105" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
