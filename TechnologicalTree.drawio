@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T10:57:35.158Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" version="21.5.0" etag="iGm26slthfQBTssk1Jd5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:06:38.485Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="KRphn0qtxTkDXSvMJz9A" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
-    <mxGraphModel>
+    <mxGraphModel dx="1393" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4abc45a1c5fcac343d9ae26bac8b06eb-4011124-images-thumbs&amp;n=13;imageBorder=#050505;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="120.09" height="89.99" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
