@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:59:40.725Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="vb60lLClAXZq48Lx-_1S" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T12:01:02.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="8tCTM91GqOymTLUXUM27" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
     <mxGraphModel dx="1639" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -64,11 +64,20 @@
         <mxCell id="KuUZ50XCyosqBm0AOGB8-16" value="Дом каменщика. Открывает доступ к постройке каменных зданий." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="812.0500000000001" y="470" width="235.89" height="105" as="geometry" />
         </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-19" target="KuUZ50XCyosqBm0AOGB8-22">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=537190a88f9671c2258bdce7cfe80fc68666d6fe-5858868-images-thumbs&amp;n=13;" vertex="1" parent="1">
           <mxGeometry x="561.13" y="590" width="178" height="126" as="geometry" />
         </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-20" value="Ферма. Позволяет выращивать с/х культуры." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="550" y="716" width="200" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=9b789f653e1eb3a5e1f9f6a77d5ec1cd0435b46c-8819379-images-thumbs&amp;n=13;" vertex="1" parent="1">
+          <mxGeometry x="815" y="590" width="230" height="126" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-23" value="Водяная мельница. Позволяет делать хлеб, торты и пироги." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="815" y="730" width="230" height="110.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
