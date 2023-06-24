@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:26:06.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="jGykil4Ed-QsLbpXgf8P" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:26:26.407Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="IZ32_MT3-1kD2DcdV3tI" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
     <mxGraphModel dx="1639" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
@@ -35,7 +35,7 @@
         <mxCell id="KuUZ50XCyosqBm0AOGB8-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e0d07e1ab5715b257ecc86123f47e975-4592776-images-thumbs&amp;n=13;" vertex="1" parent="1">
           <mxGeometry x="291.13" y="770" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Коптильня. Открывает доступ к жарке мяса." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="280" y="874" width="200" height="110.01" as="geometry" />
         </mxCell>
       </root>
