@@ -1,11 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T11:07:00.577Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="5vxWTltclVPsFXG9IkHe" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-24T11:26:06.757Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="jGykil4Ed-QsLbpXgf8P" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
-    <mxGraphModel dx="3980" dy="2331" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="1639" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="610" />
+              <mxPoint x="210" y="390" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="590" />
+              <mxPoint x="210" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4abc45a1c5fcac343d9ae26bac8b06eb-4011124-images-thumbs&amp;n=13;imageBorder=#050505;" vertex="1" parent="1">
-          <mxGeometry x="50" y="420" width="120.09" height="89.99" as="geometry" />
+          <mxGeometry x="69.95" y="555" width="120.09" height="89.99" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-4" value="Кузня.&lt;br style=&quot;font-size: 24px;&quot;&gt;Открывает использование печи." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="644.99" width="200" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e4cb19346be0a178b36c890636e0e5549b978edb-8187583-images-thumbs&amp;n=13;" vertex="1" parent="1">
+          <mxGeometry x="291.13" y="340" width="177.74" height="99.98" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-6" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="444.99" width="200" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e0d07e1ab5715b257ecc86123f47e975-4592776-images-thumbs&amp;n=13;" vertex="1" parent="1">
+          <mxGeometry x="291.13" y="770" width="190" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="874" width="200" height="110.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
