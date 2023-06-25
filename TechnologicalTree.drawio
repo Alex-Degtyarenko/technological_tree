@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-06-24T12:01:02.402Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="8tCTM91GqOymTLUXUM27" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-25T04:53:43.170Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx GX)" etag="LJnbbKHo7rmUt9C-HSTN" version="21.5.0" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
-    <mxGraphModel dx="1639" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="2143" dy="1255" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-5">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-5" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="610" />
@@ -12,7 +12,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-9">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-11" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="230" y="590" />
@@ -20,31 +20,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4abc45a1c5fcac343d9ae26bac8b06eb-4011124-images-thumbs&amp;n=13;imageBorder=#050505;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4abc45a1c5fcac343d9ae26bac8b06eb-4011124-images-thumbs&amp;n=13;imageBorder=#050505;" parent="1" vertex="1">
           <mxGeometry x="69.95" y="555" width="120.09" height="89.99" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-4" value="Кузня.&lt;br style=&quot;font-size: 24px;&quot;&gt;Открывает использование печи." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-4" value="Кузня.&lt;br style=&quot;font-size: 24px;&quot;&gt;Открывает использование печи." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="30" y="644.99" width="200" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-5" target="KuUZ50XCyosqBm0AOGB8-12">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-14" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-5" target="KuUZ50XCyosqBm0AOGB8-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://i.pinimg.com/originals/df/b9/aa/dfb9aaa8822d1c95fb97937bef0a79be.png;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://i.pinimg.com/originals/df/b9/aa/dfb9aaa8822d1c95fb97937bef0a79be.png;" parent="1" vertex="1">
           <mxGeometry x="291.13" y="340" width="147.08" height="99.98" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-6" value="Шахта. Открывает доступ к добыче ископаемых." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-6" value="Шахта. Открывает доступ к добыче ископаемых." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="264.67" y="444.99" width="200" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e0d07e1ab5715b257ecc86123f47e975-4592776-images-thumbs&amp;n=13;" vertex="1" parent="1">
+        <mxCell id="I9nobdzneEy-vM5rAiae-8" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-9" target="I9nobdzneEy-vM5rAiae-5">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="580" y="910" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-9" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e0d07e1ab5715b257ecc86123f47e975-4592776-images-thumbs&amp;n=13;" parent="1" vertex="1">
           <mxGeometry x="285" y="774" width="190" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Коптильня. Открывает доступ к жарке мяса." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-10" value="Коптильня. Открывает доступ к жарке мяса." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="280" y="874" width="200" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-12" target="KuUZ50XCyosqBm0AOGB8-15">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-18" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-12" target="KuUZ50XCyosqBm0AOGB8-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-12" target="KuUZ50XCyosqBm0AOGB8-19">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-21" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-12" target="KuUZ50XCyosqBm0AOGB8-19" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="790" y="560" />
@@ -52,32 +59,73 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e4cb19346be0a178b36c890636e0e5549b978edb-8187583-images-thumbs&amp;n=13;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-12" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=e4cb19346be0a178b36c890636e0e5549b978edb-8187583-images-thumbs&amp;n=13;" parent="1" vertex="1">
           <mxGeometry x="561.13" y="340" width="177.74" height="99.98" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-13" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-13" value="Плавильня. Открывает доступ к плавке металлов." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="444.99" width="200" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4df7003726820dc86b49f52e42a8fdba6b284f20-9289605-images-thumbs&amp;n=13;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-15" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=4df7003726820dc86b49f52e42a8fdba6b284f20-9289605-images-thumbs&amp;n=13;" parent="1" vertex="1">
           <mxGeometry x="835" y="330" width="190" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-16" value="Дом каменщика. Открывает доступ к постройке каменных зданий." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-16" value="Дом каменщика. Открывает доступ к постройке каменных зданий." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="812.0500000000001" y="470" width="235.89" height="105" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-19" target="KuUZ50XCyosqBm0AOGB8-22">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-24" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-19" target="KuUZ50XCyosqBm0AOGB8-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=537190a88f9671c2258bdce7cfe80fc68666d6fe-5858868-images-thumbs&amp;n=13;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-19" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=537190a88f9671c2258bdce7cfe80fc68666d6fe-5858868-images-thumbs&amp;n=13;" parent="1" vertex="1">
           <mxGeometry x="561.13" y="590" width="178" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-20" value="Ферма. Позволяет выращивать с/х культуры." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-20" value="Ферма. Позволяет выращивать с/х культуры." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="550" y="716" width="200" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=9b789f653e1eb3a5e1f9f6a77d5ec1cd0435b46c-8819379-images-thumbs&amp;n=13;" vertex="1" parent="1">
+        <mxCell id="I9nobdzneEy-vM5rAiae-3" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-22" target="I9nobdzneEy-vM5rAiae-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1090" y="630" />
+              <mxPoint x="1070" y="900" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-13" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="KuUZ50XCyosqBm0AOGB8-22" target="I9nobdzneEy-vM5rAiae-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1070" y="650" />
+              <mxPoint x="1070" y="583" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-22" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=9b789f653e1eb3a5e1f9f6a77d5ec1cd0435b46c-8819379-images-thumbs&amp;n=13;" parent="1" vertex="1">
           <mxGeometry x="815" y="590" width="230" height="126" as="geometry" />
         </mxCell>
-        <mxCell id="KuUZ50XCyosqBm0AOGB8-23" value="Водяная мельница. Позволяет делать хлеб, торты и пироги." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+        <mxCell id="KuUZ50XCyosqBm0AOGB8-23" value="Водяная мельница. Позволяет делать хлеб, торты и пироги." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="815" y="730" width="230" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-1" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://i.pinimg.com/originals/c1/3f/80/c13f80562d17b202692de7846316f2c1.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1115" y="826.01" width="190" height="143" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-2" value="Таверна. Открывает доступ к изготовлению всех известных блюд." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="980" width="200" height="154.02" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-9" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="I9nobdzneEy-vM5rAiae-5" target="I9nobdzneEy-vM5rAiae-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1010" y="930" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-5" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://i.pinimg.com/originals/28/ba/2f/28ba2f68b4035b1fca919146fa7f840b.jpg;" vertex="1" parent="1">
+          <mxGeometry x="700" y="845" width="190" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-6" value="Скотобойня. Открывает доступ к разведению животных." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="685" y="1002" width="220" height="110.01" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-11" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://i.pinimg.com/originals/a5/79/a8/a579a81f89556091bad0da50d2d4eaaf.jpg;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="507" width="230" height="153" as="geometry" />
+        </mxCell>
+        <mxCell id="I9nobdzneEy-vM5rAiae-12" value="Пасека. Открывает доступ к разведению пчёл, сбору мёда и сот." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1110" y="670" width="230" height="110.01" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
