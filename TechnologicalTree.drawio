@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T08:31:12.191Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0 (Edition Yx GX)" etag="CGl7eja7qe10wCT61Mbe" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T19:04:45.440Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 OPR/100.0.0.0 (Edition Yx GX)" etag="R7Xl17wrJF3SMzep2aTX" version="21.6.6" type="github">
   <diagram name="Страница 1" id="gLuoUgxs1ZDuPbv5Kvt7">
     <mxGraphModel dx="3559" dy="960" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1920" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="M-s1LXJhAnrmQNin8aws-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=76f2e35d3eaf91e3c3c92adec98b5bd1ae316d5b-9181326-images-thumbs&amp;n=13;opacity=80;clipPath=inset(4.44% 6% 4.44% 2.33%);" vertex="1" parent="1">
+        <mxCell id="M-s1LXJhAnrmQNin8aws-3" value="" style="shape=image;imageAspect=0;aspect=fixed;verticalLabelPosition=bottom;verticalAlign=top;fontSize=16;image=https://avatars.mds.yandex.net/i?id=76f2e35d3eaf91e3c3c92adec98b5bd1ae316d5b-9181326-images-thumbs&amp;n=13;opacity=80;clipPath=inset(4.44% 6% 4.44% 2.33%);" parent="1" vertex="1">
           <mxGeometry x="-90" y="220" width="1652.12" height="925.19" as="geometry" />
         </mxCell>
         <mxCell id="KuUZ50XCyosqBm0AOGB8-7" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="KuUZ50XCyosqBm0AOGB8-3" target="KuUZ50XCyosqBm0AOGB8-5" edge="1">
@@ -130,7 +130,7 @@
         <mxCell id="I9nobdzneEy-vM5rAiae-12" value="Пасека. Открывает доступ к разведению пчёл, сбору мёда и сот." style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;fontFamily=Comic Sans MS;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="1110" y="670" width="230" height="110.01" as="geometry" />
         </mxCell>
-        <mxCell id="M-s1LXJhAnrmQNin8aws-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Эра ручного труда&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" vertex="1" parent="1">
+        <mxCell id="M-s1LXJhAnrmQNin8aws-1" value="&lt;font style=&quot;font-size: 60px;&quot;&gt;Эра ручного труда&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;fontFamily=Roboto Condensed;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DRoboto%2BCondensed;" parent="1" vertex="1">
           <mxGeometry x="406.06" y="250" width="660" height="30" as="geometry" />
         </mxCell>
       </root>
